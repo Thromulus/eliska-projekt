@@ -1,0 +1,2 @@
+D:\dokumenty\skola\VUT\Prog\C\Projekt\Debug\Projekt.exe
+D:\dokumenty\skola\VUT\Prog\C\Projekt\Debug\Projekt.pdb

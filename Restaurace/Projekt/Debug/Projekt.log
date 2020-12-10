@@ -1,0 +1,7 @@
+﻿  RestauraceDB.cpp
+D:\dokumenty\skola\VUT\Prog\C\Projekt\RestauraceDB.cpp(102,22): warning C4101: akthodnoceni: neodkazovaná lokální proměnná
+D:\dokumenty\skola\VUT\Prog\C\Projekt\RestauraceDB.cpp(129,22): warning C4101: akthodnoceni: neodkazovaná lokální proměnná
+D:\dokumenty\skola\VUT\Prog\C\Projekt\RestauraceDB.cpp(128,22): warning C4101: novehodnoceni: neodkazovaná lokální proměnná
+D:\dokumenty\skola\VUT\Prog\C\Projekt\RestauraceDB.cpp(98): warning C4715: hodnoceni: ne všechny cesty k ovládacím prvkům vrací hodnotu
+D:\dokumenty\skola\VUT\Prog\C\Projekt\RestauraceDB.cpp(85): error C4700: používá se neinicializovaná lokální proměnná akthodnoceni
+D:\dokumenty\skola\VUT\Prog\C\Projekt\RestauraceDB.cpp(109): error C4700: používá se neinicializovaná lokální proměnná aktrestaurace
